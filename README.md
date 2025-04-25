@@ -2,6 +2,8 @@
 
 This app calculates the price of European call and put options using the Black-Scholes model. It also calculates and visualizes the option Greeks and provides heatmaps showing the option price sensitivity to changes in the underlying asset price and volatility.
 
+Run it online at https://black-scholes-calculator-hp.streamlit.app/
+
 ## Features
 
 - Calculate Call and Put option prices based on user inputs.
